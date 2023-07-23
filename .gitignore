@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/cpp-advanced-vector
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
